@@ -1,1 +1,25 @@
 /* write your override styles here */
+#wall .position {
+    width: 100px;
+}
+.tag-1 {
+    height: 625px;
+}
+.tag-2 {
+    height: 625px;
+}
+.tag-3 {
+    height: 625px;
+}
+.tag-4 {
+    height: 625px;
+}
+.tag-5 .tag-6 .tag-7 {
+    height: 625px;
+}
+#wall {
+    border: gold;
+}
+#wall {
+    border-bottom: black;
+}
